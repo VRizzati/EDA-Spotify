@@ -4,14 +4,14 @@ Valentina Rizzati
 
 ## Abstract
 
-***
+"""
 
 For the launch of the new product Spotify KIDS, the Spotify marketing team asked for my support in prioritizing the areas where to run the Out-Of-Home (OOH) campaign so as to ensure we run a profitable (i.e. positive ROI defined as customer campaign value / marketing cost) marketing campaign. <br/>
 I worked with [MTA turnstile data](http://web.mta.info/developers/turnstile.html) and with [Census data](https://data.census.gov/mdat/#/search?ds=ACSPUMS1Y2019) to first prioritize Public Use Microdata Areas (PUMAs) based on demographic targets provided by the Marketing team, and then select MTA stations based on foot traffic. Finally, by combining this information, I was able to narrow the MTA station list to the top 10 stations that should be targeted for the outdoor campaign.
 
 ## Design
 
-***
+"""
 
 Because of the limited amount of marketing budget, the main goal of the Marketing team is to run an efficient campaign, without overspending on the same individual. Therefore, I have decided to base the MTA station prioritization on the volume of unique individuals (UNIQUE TRAFFIC in the analysis) instead of the volume of impressions (TOTAL TRAFFIC in the analysis). Hence, UNIQUE TRAFFIC is the KPI I will optimize my model for. <br />
 
@@ -33,7 +33,7 @@ The final cluster of 10 MTA stations is the result of the following process:<br 
 
 ## Data
 
-***
+"""
 
 To identify the target MTA stations for the OOH campaign I used the following datasets:
 * Census data to target PUMAs based on the following parameters:
@@ -51,7 +51,7 @@ Finally, the geo data from the Google API was certainly instrumental to building
 
 ## Algorithms
 
-***
+"""
 
 *Data Cleaning* has been executed on the MTA data to remove duplicates, missing data and treat inconsistencies.
 
@@ -72,7 +72,7 @@ Finally, the geo data from the Google API was certainly instrumental to building
 
 ## Tools
 
-***
+"""
 
 * DB Browser for querying the data
 * SQLAlchemy for a preliminary exploratory data analysis (EDA)
@@ -82,7 +82,7 @@ Finally, the geo data from the Google API was certainly instrumental to building
 
 ## Communication
 
-***
+"""
 
 The results were communicated in a presentation. In addition, see the MTA stations map below:<br />
 * BLUE = high unique traffic
