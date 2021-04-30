@@ -77,4 +77,4 @@ The results were communicated in a presentation. In addition, see the MTA statio
 * ORANGE = medium unique traffic
 * RED = low unique traffic
 
-![Map_screenshot.png](Map_screenshot.png)
+![Map_screenshot.png](https://github.com/VRizzati/M1_EDA_Project_VR/blob/master/Map_screenshot.png)
