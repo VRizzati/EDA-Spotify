@@ -1,7 +1,5 @@
 # The Data-Driven Launch of Spotify KIDS
 
-Valentina Rizzati
-
 ## Abstract
 
 For the launch of the new product Spotify KIDS, the Spotify marketing team asked for my support in prioritizing the areas where to run the Out-Of-Home (OOH) campaign so as to ensure we run a profitable (i.e. positive ROI defined as customer campaign value / marketing cost) marketing campaign. <br/>
